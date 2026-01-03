@@ -1,1 +1,1 @@
-<img src="profile.png" alt="My Profile Photo" width="100%" />
+<img src="portfolio.png" alt="My Profile Photo" width="100%" />
