@@ -1,1 +1,1 @@
-<img src="readme.png" alt="My Profile Photo" width="100%" />
+<img src="second.png" alt="My Profile Photo" width="100%" />
